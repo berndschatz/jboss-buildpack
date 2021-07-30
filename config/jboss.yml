@@ -15,5 +15,5 @@
 
 # Configuration for the JBoss container
 ---
-version: 18.+
+version: 22.+
 repository_root: "{default.repository.root}/wildfly"
